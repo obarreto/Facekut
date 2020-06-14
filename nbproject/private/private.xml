@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/entities/Post.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/controller/PostController.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/dao/DaoUsuario.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/controller/UsuarioController.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/entities/Entitie.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/dao/Dao.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/web/login.jsp</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/dao/DaoPost.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/web/index.jsp</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/entities/Usuario.java</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/web/WEB-INF/web.xml</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/web/topnav.jsp</file>
+            <file>file:/home/khwarizmi/NetBeansProjects/Facekut/src/java/dao/DaoFunctions.java</file>
+        </group>
+    </open-files>
+</project-private>
